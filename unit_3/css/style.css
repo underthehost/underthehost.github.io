@@ -2,9 +2,26 @@
 	padding: 0;
 box-sizing: border-box;}
 body {
-	background-color: floralwhite;
+	background-color: #84D1F5;
+	font-family: Palatino, serif;
+	text-align: center;
+
 }
 
-h1, p {
-	color: forestgreen;
+h1 {
+	color: #3F6475;
+	
+}
+
+p {
+	font-style: italic;
+	text
+}
+
+img {
+	width: 100%;
+}
+
+main {
+	padding: 20px;
 }
